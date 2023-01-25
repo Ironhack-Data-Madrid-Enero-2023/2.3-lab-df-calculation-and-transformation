@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Dataframe Calculation and Transformation
+# Lab | Dataframe Calculation and Transformations
 
 ## Introduction
 
